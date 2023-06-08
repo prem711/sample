@@ -2,5 +2,5 @@ projectKey=in.javahome:myweb
 serverUrl=http://18.221.85.29:9000
 serverVersion=9.9.1.69595
 dashboardUrl=http://18.221.85.29:9000/dashboard?id=in.javahome%3Amyweb
-ceTaskId=AWq5U_KoHFpflUpMhLfL
+sqp_ecb2e8046e0e432c67c5265725aba102db0ffacd
 ceTaskUrl=http://18.221.85.29:9000/api/ce/task?id=AWq5U_KoHFpflUpMhLfL
